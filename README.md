@@ -3,7 +3,9 @@
 Este es mi trabajo del curso de **programación backend**
 # Contenido
 ## Semana 1 sesión 1
-Nada
+
+ - Nada
+
 ## Semana 1 sesión 2
 
  - Configuración de **VSCode**.
